@@ -5,7 +5,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miranda.of7/)
 
 ![Nemoske GitHub stats](https://github-readme-stats.vercel.app/api?username=nemoske&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
+
+
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
