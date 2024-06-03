@@ -19,5 +19,5 @@
 <img align="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div><br/>
 
-### Estudando Análise e desenvolvimento de sistemas👨🏽‍💻.
+### Estudando Análise e desenvolvimento de sistemas👨🏽‍💻
 
